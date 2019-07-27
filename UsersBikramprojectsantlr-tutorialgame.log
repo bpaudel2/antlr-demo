@@ -1,0 +1,15 @@
+2019-07-24 00:28:50 INFO  App:15 - The game object created off of text: main.Game@1c655221
+2019-07-24 00:28:50 INFO  Game:27 - You are playing "Example Field".
+2019-07-24 00:28:50 INFO  Game:33 - Where do you want to dig (enter x then y)?
+2019-07-24 00:29:10 INFO  Game:37 - You entered x :1 and y: 4
+2019-07-24 00:29:10 INFO  Game:44 - You found "Broken Crockery"! Your score is 1.
+2019-07-24 00:29:10 INFO  Game:33 - Where do you want to dig (enter x then y)?
+2019-07-24 00:30:37 INFO  App:15 - The game object created off of text: main.Game@1c655221
+2019-07-24 00:30:37 INFO  Game:27 - You are playing "Example Field".
+2019-07-24 00:30:37 INFO  Game:30 - Where do you want to dig (enter x then y)?
+2019-07-24 00:30:44 INFO  Game:34 - You entered x :1 and y: 4
+2019-07-24 00:30:44 INFO  Game:40 - You found "Broken Crockery"! Your score is 1.
+2019-07-24 00:30:44 INFO  Game:30 - Where do you want to dig (enter x then y)?
+2019-07-24 00:36:56 INFO  Game:34 - You entered x :3 and y: 4
+2019-07-24 00:36:56 INFO  Game:42 - Sorry, nothing there!
+2019-07-24 00:36:56 INFO  Game:30 - Where do you want to dig (enter x then y)?
